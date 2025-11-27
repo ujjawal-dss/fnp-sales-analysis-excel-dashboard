@@ -15,4 +15,4 @@ How do delivery times vary with order quantity?
 
 The goal was to turn raw data into clear, visual insights that can support better marketing, planning, and decision-making.
 
-![image alt]([Screenshot 2024-10-24 160552.png](https://github.com/ujjawal-dss/fnp-sales-analysis-excel-dashboard/blob/main/Screenshot%202024-10-24%20160552.png))
+![Dashboard Screenshot]([Screenshot 2024-10-24 160552.png](https://github.com/ujjawal-dss/fnp-sales-analysis-excel-dashboard/blob/main/Screenshot%202024-10-24%20160552.png))
