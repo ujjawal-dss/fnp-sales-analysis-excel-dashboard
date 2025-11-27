@@ -14,3 +14,5 @@ Which cities place the highest orders?
 How do delivery times vary with order quantity?
 
 The goal was to turn raw data into clear, visual insights that can support better marketing, planning, and decision-making.
+
+![Alt Text](Screenshot 2024-10-24 160552.png)
